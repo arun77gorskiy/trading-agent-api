@@ -2,7 +2,7 @@ import requests
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-TOKEN = "ТВОЙ_ТОКЕН_СЮДА"
+TOKEN = 8627904045:AAEI6XmOLynij7-eHunFQ4wkCK08WElc33c
 
 API_URL = "https://your-app.onrender.com/signal"
 
