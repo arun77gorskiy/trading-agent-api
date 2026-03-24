@@ -2,3 +2,5 @@ fastapi
 uvicorn
 ccxt
 pandas
+python-telegram-bot
+requests
